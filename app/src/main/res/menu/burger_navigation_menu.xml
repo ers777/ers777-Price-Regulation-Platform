@@ -1,0 +1,47 @@
+<!-- res/menu/drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/CreateProduct"
+            android:icon="@drawable/vegetables"
+            android:title="Create Product" />
+        <item
+            android:id="@+id/SelectProduct"
+            android:icon="@drawable/vegetables"
+            android:title="Selected Product" />
+
+        <item
+            android:id="@+id/BoughtProduct"
+            android:icon="@drawable/vegetables"
+            android:title="Bought Product" />
+    </group>
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/OrderCreateFragment"
+                    android:icon="@drawable/create"
+                    android:title="Create Order" />
+                <item
+                    android:id="@+id/SelectOrder"
+                    android:icon="@drawable/select2"
+                    android:title="Selected Order" />
+                <item
+                    android:id="@+id/PerformingorderOrder"
+                    android:icon="@drawable/order"
+                    android:title="Took Order" />
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/Chats"
+                    android:icon="@drawable/chat"
+                    android:title="Chats" />
+                <item
+                    android:id="@+id/contact"
+                    android:icon="@drawable/contact2"
+                    android:title="Contact" />
+            </group>
+        </menu>
+    </item>
+</menu>

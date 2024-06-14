@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-mas</string>
+    <string name="open">Open Navigation Drawers</string>
+    <string name="close">Close Navigation Drawers</string>
+</resources>

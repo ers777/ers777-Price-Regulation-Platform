@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964826143762",
+    "firebase_url": "https://massage-android-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "massage-android",
+    "storage_bucket": "massage-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964826143762:android:f24812131083b01d258ccb",
+        "android_client_info": {
+          "package_name": "com.example.android_mas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVnL1kKTj0fjc1EiLJmNo8z8VZs_xWgbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
